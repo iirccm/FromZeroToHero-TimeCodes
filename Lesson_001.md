@@ -10,4 +10,3 @@ Timecodes
 18:26 Break your code to better understand what it does
 19:07 Program structure
 21:34 Components of a variable
-
