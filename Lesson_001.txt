@@ -32,8 +32,8 @@ Timecodes
 1:21:30 - A line of code shoud do one thing and one thing only
 1:22:43 - Variables: implicit variable type - 'var' keyword
 1:24:30 - Exercise: how many 100ml bottles we can fill after the conversion?
-1:30:32 - Variables: convert double to integer using type casting (explict conversion)
-1:00:00 -
+1:30:32 - Variables: convert double to integer using casting (explict conversion)
+1:00:00 - 
 
 1:46:49 - Test your knowledge: Kahoot!
 2:08:55 - End of The Lesson
