@@ -9,7 +9,7 @@ Timecodes
 0:17:35 - Store user input: variables
 0:18:26 - Break your code to better understand what it does
 0:19:07 - Program structure
-0:21:34 - Components of a variable
+0:21:34 - Variables: components of a variable
 0:23:27 - Variables: string to number conversion
 0:28:12 - Number accuracy - double type
 0:30:17 - Number accuracy - decimal type
@@ -17,9 +17,18 @@ Timecodes
 0:34:14 - Strings: concatenation
 0:40:19 - Strings: interpolation - a more readable way to concatenate strings
 0:42:43 - Strings: format number display
+0:45:35 - Functions: blocks of code
+0:48:08 - Functions: the components of a function
+0:48:43 - Functions: calling a function
+0:50:00 - Functions: arange your code so it can be read like a book
 0:00:00 - 
 0:00:00 - 
 0:00:00 - 
+0:00:00 - 
+0:00:00 - 
+0:00:00 - 
+0:00:00 - 
+
 1:46:49 - Test your knowledge: Kahoot!
 2:08:55 - End of The Lesson
 2:11:24 - (Skippable) / Little Preparation For Voice Chat
