@@ -10,8 +10,13 @@ Timecodes
 0:18:26 - Break your code to better understand what it does
 0:19:07 - Program structure
 0:21:34 - Components of a variable
-...
-1:46:49 - Fun Part: Kahoot!
+0:23:27 - Variables: string to number conversion
+0:28:12 - Number accuracy - double type
+0:30:17 - Number accuracy - decimal type
+0:32:33 - Number accuracy - float type
+0:00:00 - 
+0:00:00 - 
+1:46:49 - Test your knowledge: Kahoot!
 2:08:55 - End of The Lesson
 2:11:24 - (Skippable) / Little Preparation For Voice Chat
 2:12:26 - Questions and Answers (Q&A) About The Lesson
