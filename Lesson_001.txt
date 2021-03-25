@@ -21,10 +21,10 @@ Timecodes
 0:48:08 - Functions: the components of a function
 0:48:43 - Functions: calling a function
 0:50:00 - Functions: arange your code so it can be read like a book
-0:00:00 - 
-0:00:00 - 
-0:00:00 - 
-0:00:00 - 
+0:54:15 - Functions: convert a blocks of code to a function
+0:55:46 - Functions: void return type - when a function does not return something
+0:58:00 - Splitting code is fundamentally how you simplify things
+1:03:23 - Functions: application flow
 0:00:00 - 
 0:00:00 - 
 0:00:00 - 
