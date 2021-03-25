@@ -1,12 +1,43 @@
 Timecodes 
-0:00 Intro 
-0:49 Bootcamp curriculum 
-7:59 Visual Studio: First project 
-12:24 Write our own code 
-13:05 How to comment your code
-15:24 How to read user input: Console.ReadLine()
-17:17 How to write to console: Console.WriteLine()
-17:35 Store user input: variables
-18:26 Break your code to better understand what it does
-19:07 Program structure
-21:34 Components of a variable
+0:00:00 - Intro 
+0:00:49 - Bootcamp curriculum 
+0:07:59 - Visual Studio: First project 
+0:12:24 - Write our own code 
+0:13:05 - How to comment your code
+0:15:24 - How to read user input: Console.ReadLine()
+0:17:17 - How to write to console: Console.WriteLine()
+0:17:35 - Store user input: variables
+0:18:26 - Break your code to better understand what it does
+0:19:07 - Program structure
+0:21:34 - Variables: components of a variable
+0:23:27 - Variables: string to number conversion
+0:28:12 - Number accuracy - double type
+0:30:17 - Number accuracy - decimal type
+0:32:33 - Number accuracy - float type
+0:34:14 - Strings: concatenation
+0:40:19 - Strings: interpolation - a more readable way to concatenate strings
+0:42:43 - Strings: format number display
+0:45:35 - Functions: blocks of code
+0:48:08 - Functions: the components of a function
+0:48:43 - Functions: calling a function
+0:50:00 - Functions: arange your code so it can be read like a book
+0:54:15 - Functions: convert a blocks of code to a function
+0:55:46 - Functions: void return type - when a function does not return something
+0:58:00 - Splitting code is fundamentally how you simplify things
+1:03:23 - Application flow
+1:06:14 - Functions: generalize the purpose of a function
+1:14:07 - Functions: code reusability
+1:15:00 - Variables: name of the variables must be different in the same scope 
+1:17:25 - Functions: more code refactoring - improve code readability
+1:21:30 - A line of code shoud do one thing and one thing only
+1:22:43 - Variables: implicit variable type - 'var' keyword
+1:24:30 - Exercise: how many 100ml bottles we can fill after the conversion?
+1:30:32 - Variables: convert double to integer using casting (explict conversion)
+1:36:28 - Math operrations: 1/2 = 0
+1:38:57 - Math operrations: 1/0 = error!
+1:40:30 - QA: Does the system allways rounds down?
+1:41:28 - QA: What did you do to display certain types when using 'var'?
+1:42:21 - QA: Can you explain strongly typed?
+1:46:55 - Test your knowledge in a fun way: Kahoot!
+2:08:55 - End of The Lesson
+2:11:24 - Voice Chat QA
