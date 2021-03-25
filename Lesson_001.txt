@@ -33,9 +33,11 @@ Timecodes
 1:22:43 - Variables: implicit variable type - 'var' keyword
 1:24:30 - Exercise: how many 100ml bottles we can fill after the conversion?
 1:30:32 - Variables: convert double to integer using casting (explict conversion)
-1:00:00 - 
-
-1:46:49 - Test your knowledge: Kahoot!
+1:36:28 - Math operrations: 1/2 = 0
+1:38:57 - Math operrations: 1/0 = error!
+1:40:30 - QA: Does the system allways rounds down?
+1:41:28 - QA: What did you do to display certain types when using 'var'?
+1:42:21 - QA: Can you explain strongly typed?
+1:46:55 - Test your knowledge in a fun way: Kahoot!
 2:08:55 - End of The Lesson
-2:11:24 - (Skippable) / Little Preparation For Voice Chat
-2:12:26 - Questions and Answers (Q&A) About The Lesson
+2:11:24 - Voice Chat QA
