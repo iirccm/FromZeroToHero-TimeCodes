@@ -14,6 +14,10 @@ Timecodes
 0:28:12 - Number accuracy - double type
 0:30:17 - Number accuracy - decimal type
 0:32:33 - Number accuracy - float type
+0:34:14 - Strings: concatenation
+0:40:19 - Strings: interpolation - a more readable way to concatenate strings
+0:42:43 - Strings: format number display
+0:00:00 - 
 0:00:00 - 
 0:00:00 - 
 1:46:49 - Test your knowledge: Kahoot!
